@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 807,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Richard Lai",
+      "title": "Apple now needs a judge's order to hand over push notification records",
+      "description": "Following the revelation that our mobile push notification records can be handed over to law enforcements, Apple put the blame on the Department of Justice (DOJ) for preventing tech companies from revealing such process. Meanwhile, the company also updated it…",
+      "url": "https://www.engadget.com/apple-now-needs-a-judges-order-to-hand-over-push-notification-records-052710429.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bvzeoABjZh1VJscBWhYSlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/2e1e2f30-5695-11ee-ac7f-6dcbde5bcacd",
+      "publishedAt": "2023-12-14T05:27:10Z",
+      "content": "Following the revelation that our mobile push notification records can be handed over to law enforcements, Apple put the blame on the Department of Justice (DOJ) for preventing tech companies from re… [+1670 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tesco recalls Christmas stuffing mix because it may contain moths",
+      "description": "The UK's largest retailer says a batch of Christmas stuffing may be \"unfit for human consumption\",",
+      "url": "https://www.bbc.co.uk/news/business-67710700",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8665/production/_132050443_gettyimages-1277207512-1.jpg",
+      "publishedAt": "2023-12-14T10:55:25Z",
+      "content": "Tesco has recalled a batch of Christmas stuffing mix due to the possible presence of moths in the product.\r\nThe batch of Tesco Finest Apple &amp; Cranberry Stuffing Mix may be \"unfit for human consum… [+538 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Guidemaster: A cheat sheet for comparing the iPhone 15 lineup’s cameras",
+      "description": "Most folks don't need the Pros, but there are some use cases where it matters.",
+      "url": "https://arstechnica.com/gadgets/2023/12/guidemaster-a-cheat-sheet-for-comparing-the-iphone-15-lineups-cameras/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iPhone-15-lineup-760x380.jpeg",
+      "publishedAt": "2023-12-14T00:08:18Z",
+      "content": "Enlarge/ The iPhone 15 lineup.\r\n8\r\nOver the past couple of years of reviewing the iPhone, we've often jokingly called them \"smartcameras\" rather than smartphones, as the camera features are really wh… [+11605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "bradypsnyder@gmail.com (Brady Snyder)",
+      "title": "Beeper's Mini is down once again after Apple vowed to protect iMessage",
+      "description": "iMessage for Beeper Mini and Cloud are unavailable again as Apple continues to ward off unauthorized attempts to access its messaging service.",
+      "url": "https://www.androidcentral.com/apps-software/beeper-mini-down-again",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7PHSHKgTneXCZo78APxUB3-1200-80.jpg",
+      "publishedAt": "2023-12-14T01:49:42Z",
+      "content": "<ul><li>Beeper said it is looking into reports that iMessage is unavailable on Beeper Mini and Cloud as of Wednesday night.</li><li>The development came after Apple vowed to continue fighting against… [+2904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "devos50",
+      "title": "QEMU-iOS, an emulator for legacy Apple devices",
+      "description": "A QEMU emulator for legacy Apple devices. Contribute to devos50/qemu-ios development by creating an account on GitHub.",
+      "url": "https://github.com/devos50/qemu-ios",
+      "urlToImage": "https://opengraph.githubassets.com/d6489124ca8a27e9d490acf2b480f20f20337d756c1621e7904b5eab0ca30e0d/devos50/qemu-ios",
+      "publishedAt": "2023-12-14T06:30:14Z",
+      "content": "QEMU-iOS is an emulator for legacy Apple devices.\r\nCurrently, the iPod Touch 1G and iPod Touch 2G are supported.\r\nRunning the iPod Touch 1G\r\nInstructions on how to run the iPod Touch 1G emulator can … [+232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liamrosen.com"
+      },
+      "author": null,
+      "title": "Beginner's Guide to Arguing Constructively",
+      "description": "How to turn arguments from vicious battles into productive dialogues.",
+      "url": "https://liamrosen.com/arguments.html",
+      "urlToImage": "http://www.liamrosen.com/argument_pyramid.png",
+      "publishedAt": "2023-12-14T01:18:32Z",
+      "content": "First published September 2020\r\nQuestions? Suggestions? E-mail me: \r\nCONTENTS\r\nPART I: INTROPART II: MINDSETPART III: PRE-WORKPART IV: BREAKING DOWN A DEBATEPART V: STRATEGIESPART VI: TIPSPART VII: C… [+30363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Rajesh Pandey",
+      "title": "Some Beeper users are facing outages again",
+      "description": "The company says Apple is deliberately blocking iMessage deliveries to around 5% of its users",
+      "url": "https://www.androidpolice.com/some-beeper-users-facing-outages-again/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/imessage-beeper-mini-hero-1.jpg",
+      "publishedAt": "2023-12-14T11:02:43Z",
+      "content": "Summary\r\n<ul><li> Beeper Mini, which offered the best iMessage experience on Android, has been experiencing an outage due to Apple deliberately blocking iMessage deliveries to 5% of Beeper Mini users… [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Manuel Vonau",
+      "title": "Android needs to copy these 2 iOS notification features",
+      "description": "Apple’s notification system is a lot less in your face than Android’s, and that’s sometimes nice",
+      "url": "https://www.androidpolice.com/android-copy-aspects-ios-notifications/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-vs-iphone-13-notifications.jpg",
+      "publishedAt": "2023-12-14T12:01:20Z",
+      "content": "Before I even dive into this editorial, let me make one thing clear: I like Android’s notification system a lot better than Apple’s. By default, notifications are easier to access and much more granu… [+7458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "Beeper Mini is down for 5% of users, but there's a fix",
+      "description": "The hacky iMessage app for Android called Beeper Mini is down for some users, but it seems reinstalling the app should provide a temporary fix.Beeper MiniBeeper Mini has been experiencing issues for a limited number of users since around 6 p.m. EST. Beeper po…",
+      "url": "https://appleinsider.com/articles/23/12/14/beeper-mini-is-down-for-5-of-users-but-theres-a-fix",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57708-117528-IMG_4429-xl.jpg",
+      "publishedAt": "2023-12-14T03:11:31Z",
+      "content": "Beeper Mini\r\nThe hacky iMessage app for Android called Beeper Mini is down for some users, but it seems reinstalling the app should provide a temporary fix.\r\nBeeper Mini has been experiencing issues … [+1496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Snap up Apple's M3 16-inch MacBook Pro for $2,149 (the lowest price ever)",
+      "description": "Apple's Space Black 16-inch MacBook Pro with the M3 Pro chip combines top-notch performance in a stunning chassis. And it's discounted exclusively for AppleInsider readers to a record low $2,149 on top of $80 off three years of AppleCare.All-time low price on…",
+      "url": "https://appleinsider.com/articles/23/12/14/snap-up-apples-m3-16-inch-macbook-pro-for-2149-the-lowest-price-ever",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57706-117527-m3-macbook-pro-lowest-prices-xl.jpg",
+      "publishedAt": "2023-12-14T01:32:56Z",
+      "content": "Apple's Space Black 16-inch MacBook Pro with the M3 Pro chip combines top-notch performance in a stunning chassis. And it's discounted exclusively for AppleInsider readers to a record low $2,149 on t… [+1899 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abduzeedo.com"
+      },
+      "author": "abduzeedo",
+      "title": "Revamping iDea Place: A Bold Approach in Branding",
+      "description": "Revamping iDea Place: A Bold Approach in Branding\n \n\n abduzeedo1213—23\n Discover how iDea Place's branding and visual identity overhaul, designed by Douglas Alf, uniquely positions it in the Apple ecosystem market.\r\n\n\nIn the dynamic world  of online retail, b…",
+      "url": "https://abduzeedo.com/node/88212",
+      "urlToImage": null,
+      "publishedAt": "2023-12-14T01:15:05Z",
+      "content": "Discover how iDea Place's branding and visual identity overhaul, designed by Douglas Alf, uniquely positions it in the Apple ecosystem market.\r\nIn the dynamic world  of online retail, branding and vi… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "David Price",
+      "title": "Upgrade your AirPods Pro to USB-C for just $99",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nIt’s always frustrating when you buy an expensive tech product and then a new version comes out a few months later. That sensation may be familiar to those who bought the AirPods Pro earlier this year, then saw a USB-C version roll out alongs…",
+      "url": "https://www.macworld.com/article/2172042/upgrade-airpods-pro-usb-c-99.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/12/AirPods-Pro-USB-C-case-1.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2023-12-14T11:49:50Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIt’s always frustrat… [+2009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "satomi",
+      "title": "EpicがGoogleに勝訴。Appleには負けたのになぜ？",
+      "description": "Image:KoshiroK/Shutterstock.comアップル税まで波及するのかなあ。「アプリストア決済の売上30％を収めないとアプリを売れないなんて､独占企業の弱いものイジメだ！」とFortnite開発元EpicGamesがAppleとGoogleを訴えている反トラスト法（独禁法）違反裁判。俗にいう「フォートナイト裁判」の対Google訴訟でサンフランシスコ連邦地裁は月曜、原告側の主張を",
+      "url": "https://www.gizmodo.jp/2023/12/epic-games-vs-google.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/12/14/1803790711.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2023-12-14T03:30:00Z",
+      "content": "30FortniteEpic GamesAppleGoogleGoogle\r\nVideo: ABC News / YouTube\r\nAppleAppleEpicCEOCNBC2\r\nAppleGoogle\r\nAppleGoogle*\r\nAppleGoogleOK\r\nGoogleGoogleAppleGoogleCEO\r\nAndroidGoogle PlayEpic20203\r\n2000291530… [+56 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "David Carnoy",
+      "title": "Apple Is Now Selling the USB-C AirPods Pro 2's Charging Case Separately - CNET",
+      "description": "If you want to replace your AirPods Pro 2's Lighting-equipped charging case with the new USB-C version, you now can -- for $99.",
+      "url": "https://www.cnet.com/tech/mobile/apple-is-now-selling-the-usb-c-airpods-pro-2s-charging-case-separately/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8404e37796250f47cfc1b3dbf52d2f585183110d/hub/2023/12/14/1e3dcf11-ecde-447f-b9c4-a3b7f63c7c5d/airpods-pro-2-case-usb-c.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-12-14T02:41:24Z",
+      "content": "When Apple released its slightly updated AirPods Pro 2 with MagSafe Charging Case (USBC) earlier this year, it didn't offer the USB-C charging case as a separate accessory. While the earlier AirPods … [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+      "title": "Microsoft ranked the BEST-MANAGED company for 4 years consecutively",
+      "description": "Microsoft has been ranked as the top best-managed company in 2023 by researchers at the Drucker Institute. Growth, employee retention, and customer satisfaction were the main metrics and categories used while ranking. Microsoft scored significantly high acros…",
+      "url": "https://www.windowscentral.com/microsoft/microsoft-ranked-the-best-managed-company-for-4-years-consecutively",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XWx7x2T9oLngjQnwvXM5uA-1200-80.jpg",
+      "publishedAt": "2023-12-14T02:41:48Z",
+      "content": "What you need to know\r\n<ul><li>Microsoft has been ranked as the top best-managed company in 2023 by researchers at the Drucker Institute.</li><li>Apple and NVIDIA followed closely in second and third… [+2806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "rebecca.spear@futurenet.com (Rebecca Spear)",
+      "title": "NPUs are essential for AI, but what are they, and how do they differ from GPUs?",
+      "description": "NPUs are dedicated AI chips that help take some of the work off of CPUs and GPUs when a computer does AI tasks. Here's why they are so important and how they differ from GPUs.",
+      "url": "https://www.windowscentral.com/hardware/what-is-npu-vs-gpu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/F2zSsZtT47wBrpWVq4viBG-1200-80.jpg",
+      "publishedAt": "2023-12-14T10:44:38Z",
+      "content": "Artificial Intelligence (AI) has seen tremendous advancements over the last few months, providing more conveniences on PCs and faster processing times. A large part of AI-focused computer efficiency … [+6642 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "tristan carballeda",
+      "title": "Le boitier des AirPods Pro USB-C vient d’arriver sur l’Apple Store",
+      "description": "Apple aura pris son temps, mais depuis hier, la boite de recharge des AirPods Pro USB-C vient d'arriver seule sur l'App Store. \nLe boitier des AirPods Pro USB-C vient d’arriver sur l’Apple Store",
+      "url": "https://www.journaldugeek.com/2023/12/14/le-boitier-des-airpods-pro-usb-c-vient-darriver-sur-lapple-store/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/12/airpods-pro-apple.jpg",
+      "publishedAt": "2023-12-14T11:00:16Z",
+      "content": "Lors de la sortie de l’iPhone 15, Apple a profité de l’attention mondiale qui était portée sur Cupertino pour mettre à jour ses AirPods Pro. Une nouvelle génération sans grand changement, qui se déma… [+2242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Julie Hay",
+      "title": "The Batman 2 : Joker pourrait affronter Robert Pattinson",
+      "description": "\"Mon sourire en dit long\". Barry Keoghan évoque le potentiel retour de Joker dans Batman 2. Matt Reeves prépare-t-il son The Dark Knight ? \nThe Batman 2 : Joker pourrait affronter Robert Pattinson",
+      "url": "https://www.journaldugeek.com/2023/12/14/the-batman-2-joker-pourrait-affronter-robert-pattinson/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/12/batman-2-joker-2025.jpg",
+      "publishedAt": "2023-12-14T07:30:52Z",
+      "content": "Si DC s’apprête à mettre une décennie d’exploration super-héroïque derrière elle, la licence n’a pas rangé tous ses héros passés au placard. Face aux succès retentissants de Joker et The Batman, Warn… [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Jesús Quesada",
+      "title": "El mejor teléfono de Apple tiene descuento y es el regalazo de Navidad",
+      "description": "Sin duda, el iPhone 15 Pro Max es el teléfono más completo del catálogo de Apple, además de ser uno de los más caros. Sin embargo, en Amazon está disponible con una rebaja que lo deja a su precio mínimo histórico y se puede adquirir por 1.399 euros.\n<!-- BREA…",
+      "url": "https://www.applesfera.com/seleccion/mejor-telefono-apple-tiene-descuento-regalazo-navidad",
+      "urlToImage": "https://i.blogs.es/307248/iphone-15-pro-max/840_560.jpeg",
+      "publishedAt": "2023-12-14T09:32:15Z",
+      "content": "Sin duda, el iPhone 15 Pro Max es el teléfono más completo del catálogo de Apple, además de ser uno de los más caros. Sin embargo, en Amazon está disponible con una rebaja que lo deja a su precio mín… [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "El easter egg de la Apple Store vuelve por Navidad: cuándo empezó y cómo encontrarlo",
+      "description": "No hay nada más navideño que imaginarse un paisaje nevado y Apple, que es muy dada a ciertas celebraciones, no elude la Navidad y ya ofrece en su aplicación 'Apple Store' su particular huevo de pascua con el que precisamente pinta el paisaje de la app con nie…",
+      "url": "https://www.applesfera.com/curiosidades/easter-egg-apple-store-vuelve-navidad-cuando-empezo-como-encontrarlo",
+      "urlToImage": "https://i.blogs.es/d3d947/nieve-apple-store/840_560.jpeg",
+      "publishedAt": "2023-12-14T08:01:28Z",
+      "content": "No hay nada más navideño que imaginarse un paisaje nevado y Apple, que es muy dada a ciertas celebraciones, no elude la Navidad y ya ofrece en su aplicación 'Apple Store' su particular huevo de pascu… [+3613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Llevaba años queriéndolo y ahora Apple lo presenta: así es la herramienta de autodiagnóstico para iPhone y Mac",
+      "description": "Estoy seguro de no ser el único al que le encantaría poder ejecutar un diagnóstico en el iPhone y Mac que nos ofrezca datos sobre el estado de los componentes. Tales como la degradación exacta de las baterías o los posibles problemas en la pantalla. Todo ello…",
+      "url": "https://www.applesfera.com/apple-1/llevaba-anos-queriendolo-ahora-apple-presenta-asi-herramienta-autodiagnostico-para-iphone-mac",
+      "urlToImage": "https://i.blogs.es/ec56cb/reparacion-apple/840_560.jpeg",
+      "publishedAt": "2023-12-14T09:45:28Z",
+      "content": "Estoy seguro de no ser el único al que le encantaría poder ejecutar un diagnóstico en el iPhone y Mac que nos ofrezca datos sobre el estado de los componentes. Tales como la degradación exacta de las… [+3278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Así es el sensor \"todo en uno\" que permitirá que el Apple Watch multiplique sus funciones de salud",
+      "description": "Un dispositivo con funciones de salud como el Apple Watch, aunque obtenga el aprobado de las entidades médicas, no se podrá considerar nunca un instrumento igual de válido que los de un centro médico. Sin embargo, están más cerca de ello gracias a avances en …",
+      "url": "https://www.applesfera.com/apple-watch/asi-sensor-todo-uno-que-permitira-que-apple-watch-multiplique-sus-funciones-salud",
+      "urlToImage": "https://i.blogs.es/2e6b85/sensor/840_560.jpeg",
+      "publishedAt": "2023-12-14T12:01:28Z",
+      "content": "Un dispositivo con funciones de salud como el Apple Watch, aunque obtenga el aprobado de las entidades médicas, no se podrá considerar nunca un instrumento igual de válido que los de un centro médico… [+4425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "¿Nuevo Mac? Llevo 17 años utilizándolos y esto es lo que siempre configuro nada más sacarlos de la caja",
+      "description": "Abrir un nuevo Mac, incluyas o no la ceremonia del unboxing, siempre da alegría. Es un gasto grande de dinero, pero te abre la puerta a un ordenador que puede estar contigo tranquilamente una década. Pero a veces esa alegría se une a la impaciencia de querer …",
+      "url": "https://www.applesfera.com/portatil/nuevo-mac-llevo-17-anos-utilizandolos-esto-que-siempre-configuro-nada-sacarlos-caja",
+      "urlToImage": "https://i.blogs.es/1689a3/captura-de-pantalla-2023-12-14-a-las-11.04.24/840_560.jpeg",
+      "publishedAt": "2023-12-14T11:01:29Z",
+      "content": "Abrir un nuevo Mac, incluyas o no la ceremonia del unboxing, siempre da alegría. Es un gasto grande de dinero, pero te abre la puerta a un ordenador que puede estar contigo tranquilamente una década.… [+4242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phandroid - News for Android"
+      },
+      "author": "Mike Viray",
+      "title": "GM Issues Statement After Decision to Drop Support for Android Auto",
+      "description": "Just recently, General Motors announced that it would be dropping support for Android Auto several months after switching over to Google’s automotive smart platform from Apple CarPlay. As such, there’s been speculation that the move ties in with a new strateg…",
+      "url": "https://phandroid.com/2023/12/14/gm-issues-statement-after-decision-to-drop-support-for-android-auto/",
+      "urlToImage": "https://phandroid.com/wp-content/uploads/2023/12/general-motors-640x379.png",
+      "publishedAt": "2023-12-14T12:25:41Z",
+      "content": "Just recently, General Motors announced that it would be dropping support for Android Auto several months after switching over to Google’s automotive smart platform from Apple CarPlay. As such, there… [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phandroid - News for Android"
+      },
+      "author": "Tyler Lee",
+      "title": "Android developers can now integrate Google’s Gemini AI into their apps",
+      "description": "Google has announced that developers who are interested can now start integrating its Gemini AI into their apps.\nThe post Android developers can now integrate Google’s Gemini AI into their apps appeared first on Phandroid.",
+      "url": "https://phandroid.com/2023/12/14/android-developers-can-now-integrate-googles-gemini-ai-into-their-apps/",
+      "urlToImage": "https://phandroid.com/wp-content/uploads/2022/04/google-logo.jpg",
+      "publishedAt": "2023-12-14T10:13:36Z",
+      "content": "Last week, Google announced the launch of Gemini, its latest AI thats designed to take on and maybe even surpass OpenAIs GPT-4. One of the versions of the AI is called Gemini Nano, a version designed… [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Shelley Walsh",
+      "title": "12 Social Media Experts Offer Their Predictions For 2024 via @sejournal, @theshelleywalsh",
+      "description": "Glimpse the future of social media marketing in 2024! Learn from 12 experts on trends, AI integration, and strategies shaping the evolving digital landscape.\nThe post 12 Social Media Experts Offer Their Predictions For 2024 appeared first on Search Engine Jou…",
+      "url": "https://www.searchenginejournal.com/social-media-experts-predictions/503126/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/sm-rev-65782d7a1d10c-sej.jpg",
+      "publishedAt": "2023-12-14T09:15:10Z",
+      "content": "Social media has seen interesting changes recently.\r\nThe dramatic changes at Twitter – now rebranded as ‘X’ – saw many SEO professionals looking for new social media platforms to maintain their commu… [+15383 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Andreas Donath",
+      "title": "Europol: Kriminelle nutzen Bluetoothtracker für illegale Sendungen",
+      "description": "Europol warnt davor, dass Kriminelle Bluetoothtracker nutzten, um illegale Waren während des Transports zu orten. (Airtag, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Feuropol-kriminelle-nutzen-bluetoothtracker-fuer-illegale-sendungen-2312-180309.html&referer=https%3A%2F%2Ft.co%2Fd97f4b6ccc",
+      "urlToImage": null,
+      "publishedAt": "2023-12-14T06:25:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Ingo Pakalski",
+      "title": "Apple: Ladeetui mit USB-C für Airpods Pro 2 für 110 Euro verfügbar",
+      "description": "Das nun einzeln verfügbare USB-C-Ladeetui ist mit allen Modellen der Airpods Pro 2 kompatibel. Eingeschränkt lassen sich auch die Airpods Pro der ersten Generation damit nutzen. (Airpods, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-ladeetui-mit-usb-c-fuer-airpods-pro-2-fuer-110-euro-verfuegbar-2312-180312.html&referer=https%3A%2F%2Ft.co%2F3b298d84a1",
+      "urlToImage": null,
+      "publishedAt": "2023-12-14T07:19:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Joe Rice-Jones",
+      "title": "How to tackle the end of holiday season's last-minute deals shopping",
+      "description": "The shopping crush of Black Friday is over for another year, but there's still time to grab some gifts before the last part of the holiday season.",
+      "url": "https://www.xda-developers.com/how-tackle-end-holiday-season-last-minute-deals/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/11/balck-friday-deals.jpg",
+      "publishedAt": "2023-12-14T09:00:26Z",
+      "content": "The holiday shopping season is still going strong. As we recover from the hangover of Black Friday, it's important to remember that shipping has been hit hard this year, and hasn't recovered to pre-p… [+5047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Marc Stöckel",
+      "title": "Push-Benachrichtigungen: Apple erschwert Behörden den Datenzugriff",
+      "description": "US-Behörden, die auf Push-Benachrichtigungsdaten von iPhone-Nutzern zugreifen wollen, benötigen neuerdings einen richterlichen Beschluss. (Überwachung, Google)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fpush-benachrichtigungen-apple-erschwert-behoerden-den-datenzugriff-2312-180313.html&referer=https%3A%2F%2Ft.co%2F7a02a0958b",
+      "urlToImage": null,
+      "publishedAt": "2023-12-14T07:35:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka Android"
+      },
+      "author": "Pepu Ricca",
+      "title": "Esta es la mejor app para tener el modo reposo del iPhone en tu móvil Android: fluida, personalizable y con Material You",
+      "description": "Por mucho que Apple presuma de su sistema operativo, más aún en la última versión, las 11 novedades de iOS 17 ya estaban en nuestro querido Android. La competencia más directa es experta en atribuirse éxitos, aunque no podemos restarle impacto al modo reposo …",
+      "url": "https://www.xatakandroid.com/aplicaciones-android/esta-mejor-app-para-tener-modo-reposo-iphone-tu-movil-android-fluida-personalizable-material-you",
+      "urlToImage": "https://i.blogs.es/5bb635/modo-reposo-android-app/840_560.jpeg",
+      "publishedAt": "2023-12-14T11:01:29Z",
+      "content": "Por mucho que Apple presuma de su sistema operativo, más aún en la última versión, las 11 novedades de iOS 17 ya estaban en nuestro querido Android. La competencia más directa es experta en atribuirs… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka Android"
+      },
+      "author": "Iván Ramírez",
+      "title": "General Motors cree que usar Android Auto en el coche no se seguro por sus problemas y desconexiones",
+      "description": "En abril General Motors le daba la espalda a Android Auto (y Apple CarPlay) anunciando que sus nuevos vehículos eléctricos apostarían por su sistema propio Ultifi, en lugar de incluir soporte para Android Auto y CarPlay. Ahora, un ejecutivo de la compañía ha …",
+      "url": "https://www.xatakandroid.com/seguridad/general-motors-cree-que-usar-android-auto-coche-no-se-seguro-sus-problemas-desconexiones",
+      "urlToImage": "https://i.blogs.es/65a2e9/androidauto/840_560.jpeg",
+      "publishedAt": "2023-12-14T07:01:29Z",
+      "content": "En abril General Motors le daba la espalda a Android Auto (y Apple CarPlay) anunciando que sus nuevos vehículos eléctricos apostarían por su sistema propio Ultifi, en lugar de incluir soporte para An… [+3574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Aamir Siddiqui",
+      "title": "Apple makes it harder for the government to get your push notification records",
+      "description": "Apple has changed its law enforcement guidelines to require a court order or search warrant in order to obtain push notification records.",
+      "url": "https://www.androidauthority.com/apple-government-push-notification-records-3394463/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/08/Apple-WWDC22-iOS16-Lockscreen-Notifications-220606_inline.jpg.medium.jpg",
+      "publishedAt": "2023-12-14T11:03:51Z",
+      "content": "<ul><li>Apple has updated its law enforcement guidelines to now require a court order or search warrant if the government wants data around push notification records.</li><li>This brings Apple to par… [+2021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Hadlee Simons",
+      "title": "Now Ford says it’s keeping Android Auto and CarPlay due to safety",
+      "description": "Why is GM ditching Android Auto and CarPlay? Safety, apparently. Why is Ford keeping them? Safety.",
+      "url": "https://www.androidauthority.com/ford-keep-android-auto-carplay-safety-3393955/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/12/dashboard-android-auto-scaled.jpg",
+      "publishedAt": "2023-12-14T05:29:46Z",
+      "content": "<ul><li>Ford has confirmed that its committed to keeping Android Auto and Apples CarPlay in its cars.</li><li>CEO Jim Farley said Ford customers love these features due to safety-related reasons.</li… [+1457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Adamya Sharma",
+      "title": "You can now buy an AirPods Pro 2 USB-C charging case separately",
+      "description": "You'll have to pay $99 to upgrade from your Lightning case to the new IP54-rated USB-C case.",
+      "url": "https://www.androidauthority.com/airpods-pro-2-usb-c-charging-case-3394390/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-AirPods-Pro-2nd-generation-USB-C-connection-230912_inline.jpg.large-1-1.jpg",
+      "publishedAt": "2023-12-14T05:33:09Z",
+      "content": "<ul><li>Apple is finally selling the MagSafe USB-C AirPods Pro 2 case separately.</li><li>The case costs $99 if you want to upgrade.</li><li>It features an IP54 rating for protection against dust and… [+1026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Presse-citron",
+      "title": "Patienter 3 ans : le dur sacrifice demandé par Samsung à ses utilisateurs",
+      "description": "Un appareil très attendu de la société coréenne risque de décevoir les clients.",
+      "url": "https://www.presse-citron.net/patienter-3-ans-le-dur-sacrifice-demande-par-samsung-a-ses-utilisateurs/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2023/12/samsung.webp",
+      "publishedAt": "2023-12-14T08:14:42Z",
+      "content": "Selon le blog asiatique Naver, le changement de design apparu la semaine dernière et concernant les potentiels Samsung Galaxy S24 Ultra pourrait bien ne pas être entrepris en janvier. C’est à cette d… [+2685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith",
+      "title": "Expect Beeper Mini’s iMessage support to be unreliable, as service goes down again",
+      "description": "Beeper might be developing “the best chat app on Earth,” but don’t expect iMessage support to be reliable, considering what we’ve witnessed in the past …\nThe post Expect Beeper Mini’s iMessage support to be unreliable, as service goes down again appeared firs…",
+      "url": "https://bgr.com/tech/expect-beeper-minis-imessage-support-to-be-unreliable-as-service-goes-down-again/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2023/12/imessage-client-beeper-mini-bgr.jpg?quality=82&strip=all",
+      "publishedAt": "2023-12-14T11:50:00Z",
+      "content": "Beeper might be developing “the best chat app on Earth,” but don’t expect iMessage support to be reliable, considering what we’ve witnessed in the past few days. Beeper Mini took advantage of a looph… [+3637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith",
+      "title": "Meta’s AI features for Ray-Ban smart glasses make me think Apple’s AR goggles are inevitable",
+      "description": "The computing platform of the future is slowly coming together. Smart glasses that support augmented reality (AR) features and artificial intelligence (AI) will eventually replace …\nThe post Meta’s AI features for Ray-Ban smart glasses make me think Apple’s A…",
+      "url": "https://bgr.com/tech/metas-ai-features-for-ray-ban-smart-glasses-make-me-think-apples-ar-goggles-are-inevitable/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2023/09/meta-rayban-glasses.jpeg?quality=82&strip=all",
+      "publishedAt": "2023-12-14T00:29:00Z",
+      "content": "The computing platform of the future is slowly coming together. Smart glasses that support augmented reality (AR) features and artificial intelligence (AI) will eventually replace smartphones. I’ve o… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "sullyphoto64@gmail.com (Terry Sullivan)",
+      "title": "Google, Meta, Qualcomm and others form team to promote open digital systems",
+      "description": "There are 10 international tech companies on the team, but Apple is not one of them",
+      "url": "https://www.imore.com/apple/google-meta-qualcomm-and-others-form-team-to-promote-open-digital-systems",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wAsg7LTwmBwooiju7NaWx-1200-80.jpg",
+      "publishedAt": "2023-12-14T11:42:13Z",
+      "content": "Yesterday, several of the most powerful international tech companies, including Alphabet’s Google, Meta (formerly named Facebook), Qualcomm, Lenovo, and six others formed a team that agreed to push f… [+3244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "james.bentley@futurenet.com (James Bentley)",
+      "title": "iMessage for Android app beeper slams Apple for \"deliberately blocking\" messages",
+      "description": "Beeper Mini, an app that allows Android users to send iMessages, is being blocked by Apple and Beeper has responded",
+      "url": "https://www.imore.com/apps/social-apps/imessage-for-android-app-beeper-slams-apple-for-deliberately-blocking-messages",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K4aYLYH6wEqYMNCdzBRkhg-1200-80.jpg",
+      "publishedAt": "2023-12-14T12:25:22Z",
+      "content": "Beeper Mini, the Android app that allows users to send iMessages, went live last week\r\n, got blocked\r\n, found a workaround\r\n, and has now seemingly been blocked again, according to Beeper. This time,… [+1808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "sullyphoto64@gmail.com (Terry Sullivan)",
+      "title": "Apple now sells standalone USB-C charger for AirPods Pro 2",
+      "description": "You can now buy the new USB-C charger without needing to buy a new pair of AirPods",
+      "url": "https://www.imore.com/airpods/apple-now-sells-standalone-usb-c-charger-for-airpods-pro-2",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pqxqxta2g6Mq3TcggJgTng-1200-80.jpg",
+      "publishedAt": "2023-12-14T00:12:52Z",
+      "content": "When Apple introduced its refresh of the AirPods Pro 2 this past September, some of you might have been a bit irked if you’d already had a charging case that used a Lightning connector. Well, if that… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
+      "title": "EU sides with Spotify as Apple set to receive huge fines related to \"abusive\" App Store practices",
+      "description": "The EU is set to side with Spotify as Apple's App Store practices are deemed \"abusive\".",
+      "url": "https://www.imore.com/apple/eu-sides-with-spotify-as-apple-set-to-receive-huge-fines-related-to-abusive-app-store-practices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LRnGRR7M6e69qQobT3xwzM-1200-80.jpeg",
+      "publishedAt": "2023-12-14T12:23:17Z",
+      "content": "Apple is set to receive a large fine and a ban on the company’s App Store practices that take large commissions on in-app subscriptions to its music-streaming rivals, like Spotify.\r\nThe company is ex… [+1627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Anna North",
+      "title": "The weird, bad history of tampon testing",
+      "description": "Menstruation stigma shapes the products we buy — and hurts our health.",
+      "url": "https://www.vox.com/the-highlight/23893044/period-tampon-menstrual-cycle-menstruation-cup-pad",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-ZTejO1tkV67beflqMcVc6Lpcl4=/0x50:1920x1055/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25044649/EvaClaycomb_VoxHighlight.jpg",
+      "publishedAt": "2023-12-14T12:04:31Z",
+      "content": "If youve ever had a period or if you just watched a lot of TV in the 1990s you probably remember the blue-liquid ads.\r\nIn one example from 1995, an actor extols the virtues of Always maxi pads as sap… [+12498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase (Chris Welch/The Verge)",
+      "description": "Chris Welch / The Verge:\nApple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase  —  Apple has begun selling the USB-C charging case for its second-generation AirPods Pro as a standalone purchase.  But it …",
+      "url": "https://www.techmeme.com/231214/p13",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2Xt6tMjS_HVq4w8jOR5YbsE1riI=/0x0:2324x1474/1200x628/filters:focal(1162x737:1163x738)/cdn.vox-cdn.com/uploads/chorus_asset/file/25160315/Screenshot_2023_12_13_at_12.11.56_PM.png",
+      "publishedAt": "2023-12-14T12:05:14Z",
+      "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:05 AM ET, December 14, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Maria Diaz （CNET News） 翻訳校正： 編集部",
+      "title": "アップル、「iPhone 15」とM2搭載「Mac」をDIY修理プログラムの対象に",
+      "description": "アップルは米国時間12月13日、「Self Service Repair」（セルフサービス修理）プログラムの対象を「iPhone 15」シリーズや「M2」搭載「Mac」デバイスを含む35製品、33カ国／24言語に拡大した。",
+      "url": "https://japan.cnet.com/article/35212780/",
+      "urlToImage": "https://japan.cnet.com/storage/2023/12/14/f0e5ad3d8f21c653792b7196f48f54dd/selfrepair_1280x960.jpg",
+      "publishedAt": "2023-12-14T00:00:00Z",
+      "content": "Apple1213Self Service RepairApple\r\nSelf Service RepairiPhone 15M2Mac353324M2Mac1416MacBook Pro15MacBook AirMac miniMac ProMac Studio\r\nApple Diagnostics for Self Service Repair2024iPhoneMac\r\niOS 17iPh… [+41 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "tagesschau.de"
+      },
+      "author": "tagesschau.de",
+      "title": "Marktbericht: DAX nimmt Kurs auf 17.000 Punkte",
+      "description": "Die US-Notenbank Federal Reserve signalisierte gestern ihre Bereitschaft, den Leitzins im kommenden Jahr zu senken. Der Dow Jones erreichte daraufhin ein Rekordhoch, der DAX dürfte heute nachziehen.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-rekordhoch-geldanlage-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/49128f62-b447-44a2-b4ae-977c08812133/AAABi4m7d-A/AAABibBxqrQ/16x9-1280/powell-163.jpg",
+      "publishedAt": "2023-12-14T06:36:08Z",
+      "content": "Stand: 14.12.2023 07:36 Uhr\r\nDie US-Notenbank Federal Reserve signalisierte gestern ihre Bereitschaft, den Leitzins im kommenden Jahr zu senken. Der Dow Jones erreichte ein Rekordhoch, der DAX dürfte… [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Olli",
+      "title": "OmniFocus: Version 4 des Aufgaben-Managements erschienen",
+      "description": "Über die Jahre habe ich mehrere Tools zum Aufgaben-Management ausprobiert, bin letztlich aber immer an Todoist hängen geblieben. Zu den Kandidaten, die ich ebenfalls eine Weile nutzte, gehört auch OmniFocus. Das Tool kann von einfachem GTD bis zu komplexen Pr…",
+      "url": "https://stadt-bremerhaven.de/omnifocus-version-4-des-aufgaben-managements-erschienen/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/omnifocus_4_all_devices.jpg",
+      "publishedAt": "2023-12-14T07:20:33Z",
+      "content": "Über die Jahre habe ich mehrere Tools zum Aufgaben-Management ausprobiert, bin letztlich aber immer an Todoist hängen geblieben. Zu den Kandidaten, die ich ebenfalls eine Weile nutzte, gehört auch Om… [+1500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Cassim Ketfi",
+      "title": "L’UE ne lâche pas Apple : l’App Store serait sur le point de s’ouvrir un peu plus",
+      "description": "Apple pourrait bien perdre sa bataille face à Spotify en Europe. L'Union européenne devrait bientôt forcer Apple à ouvrir les conditions de son App Store.",
+      "url": "https://www.frandroid.com/marques/apple/1888355_lue-ne-lache-pas-apple-lapp-store-serait-sur-le-point-de-souvrir-un-peu-plus",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/10/app-store-5-scaled.jpg",
+      "publishedAt": "2023-12-14T09:38:23Z",
+      "content": "Apple pourrait bien perdre sa bataille face à Spotify en Europe. L'Union européenne devrait bientôt forcer Apple à ouvrir les conditions de son App Store.\r\nNon seulement Apple va être contraint d’ouv… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Geoffroy Husson",
+      "title": "Le vol des iPhone, une arnaque promue par Nvidia et une nouveauté pratique sur WhatsApp – Tech’spresso",
+      "description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le mercredi 13 décembre : Apple lance une fonctionnalité pour prévenir le vol d'iPhone, une arnaque a été promue par Nividia et WhatsApp lance une nouvelle fonctionnalité. Pour ne …",
+      "url": "https://www.frandroid.com/actualites-generales/1888103_le-vol-des-iphone-une-arnaque-promue-par-nvidia-et-une-nouveaute-pratique-sur-whatsapp-techspresso",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/10/apple-iphone-15-pro-frandroid-dsc09861.jpg",
+      "publishedAt": "2023-12-14T06:00:56Z",
+      "content": "Vous navez pas eu le temps de suivre lactualité hier? Voici ce qui a marqué le mercredi 13 décembre : Apple lance une fonctionnalité pour prévenir le vol d'iPhone, une arnaque a été promue par Nividi… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Axel Savoye",
+      "title": "L’Apple TV 4K (2022) est une excellente box multimédia, surtout avec plus de 20 % de réduction",
+      "description": "La Rolls Royce des boîtiers multimédia, voilà ce qu'est l'Apple TV 4K (2022), troisième génération d'un produit à succès. Avec sa nouvelle puce A15 Bionic, cet Apple TV 4K fait profiter des films et séries d'une sélection exhaustive des plateformes de streami…",
+      "url": "https://www.frandroid.com/bons-plans/1883515_lapple-tv-4k-2022-est-une-excellente-box-multimedia-surtout-avec-plus-de-20-pourcents-de-reduction",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/12/test-appletv-4k-2022-23-scaled.jpeg",
+      "publishedAt": "2023-12-14T09:47:06Z",
+      "content": "La Rolls Royce des boîtiers multimédia, voilà ce qu'est l'Apple TV 4K (2022), troisième génération d'un produit à succès. Avec sa nouvelle puce A15 Bionic, cet Apple TV 4K fait profiter des films et … [+4674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Axel Savoye",
+      "title": "Le fameux Beats Studio3 Wireless est à moitié prix, un beau cadeau de Noël pour les audiophiles",
+      "description": "Si Beats n'atteint plus le niveau des cadors des casques audio comme Sony et Bose, le constructeur américain a encore de beaux restes avec le Beats Studio3 Wireless, l'un de ses fleurons qui profite d'une jolie promotion pour Noël. Chez la Fnac, ce casque hau…",
+      "url": "https://www.frandroid.com/bons-plans/1888057_le-fameux-beats-studio3-wireless-est-a-moitie-prix-un-beau-cadeau-de-noel-pour-les-audiophiles",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/03/casque-beats-studio3.jpg",
+      "publishedAt": "2023-12-14T07:13:33Z",
+      "content": "Si Beats n'atteint plus le niveau des cadors des casques audio comme Sony et Bose, le constructeur américain a encore de beaux restes avec le Beats Studio3 Wireless, l'un de ses fleurons qui profite … [+3497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Humanoid Content",
+      "title": "Un smartphone reconditionné pour Noël ? L’iPhone 12 est l’un des meilleurs choix [Sponso]",
+      "description": "Et si pour Noël, vous misiez sur du reconditionné ? Il n’y a pas mieux pour offrir un smartphone premium sans y laisser des plumes. Back Market affiche par exemple l’iPhone 12 à moins de 400 euros. On vous explique pourquoi c’est encore un excellent choix en …",
+      "url": "https://www.frandroid.com/marques/apple/1884965_un-smartphone-reconditionne-pour-noel-liphone-12-est-lun-des-meilleurs-choix",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/08/iphone-12-1-scaled.jpg",
+      "publishedAt": "2023-12-14T10:51:52Z",
+      "content": "Et si pour Noël, vous misiez sur du reconditionné ? Il ny a pas mieux pour offrir un smartphone premium sans y laisser des plumes. Back Market affiche par exemple liPhone 12 à moins de 400 euros. On … [+5169 chars]"
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Андрей Ставицкий",
+      "title": "В iPhone добавили защиту от кражи",
+      "description": "Корпорация Apple выпустила бета-версию iOS, добавив в операционную систему продвинутую защиту от кражи. С функцией Stolen Device Protection (SDP) iPhone больше не позволит разблокировать устройство, а также сбросить и поменять пароли в аккаунтах. Аппарат буде…",
+      "url": "https://lenta.ru/news/2023/12/14/stolen_iphone/",
+      "urlToImage": "https://icdn.lenta.ru/images/2023/12/13/11/20231213113247234/share_3b9ae6b689e375886c2eb801c8f7f513.jpg",
+      "publishedAt": "2023-12-14T06:05:13Z",
+      "content": "Apple - iOS, . The Wall Street Journal (WSJ).\r\n , Apple, . Stolen Device Protection (SDP) iPhone , .\r\n SDP, - iOS 17.3, - , . «». iPhone Face ID Touch ID.\r\n . , Apple ID, iCloud « iPhone». , iOS 17.3… [+54 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Mickael Bazoge",
+      "title": "Apple a besoin de votre aide pour améliorer les itinéraires en réalité augmentée de son app Plans",
+      "description": "Si le cœur vous en dit, vous pouvez mettre la main à la pâte pour améliorer les fonctions de réalité augmentée d’Apple Plans. Le constructeur propose en effet aux utilisateurs de son application de participer à la collecte d’information.",
+      "url": "https://www.01net.com/actualites/apple-a-besoin-de-votre-aide-pour-ameliorer-les-itineraires-en-realite-augmentee-de-son-app-plans.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2023/12/Localisation-realite-augmentee-Plans-3.jpg",
+      "publishedAt": "2023-12-14T11:00:07Z",
+      "content": "Si le cur vous en dit, vous pouvez mettre la main à la pâte pour améliorer les fonctions de réalité augmentée dApple Plans. Le constructeur propose en effet aux utilisateurs de son application de par… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Justcreative.com"
+      },
+      "author": "Jacob Cass",
+      "title": "[Podcast] Brand Storytelling with Miri Rodriguez",
+      "description": "This episode is a must-listen for those interested in elevating their brand's narrative and connecting more authentically with their audience!",
+      "url": "https://justcreative.com/brand-storytelling-miri-rodriguez/",
+      "urlToImage": "https://justcreative.com/wp-content/uploads/2023/12/miri-rodriguez.png",
+      "publishedAt": "2023-12-14T02:58:50Z",
+      "content": "In this enlightening episode of JUST Branding, youll discover the art and science of brand storytelling through the experiences and insights of Miri Rodriguez, a celebrated storyteller and branding e… [+1192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smartworld.it"
+      },
+      "author": "Alessandro Nodari",
+      "title": "GM abbandona Android Auto e CarPlay, ma la notizia è che bisogna pagare per l'alternativa",
+      "description": "Android Auto e CarPlay sono le popolarissime interfacce per veicoli di Google e Apple, e gli utenti per averle sui...\r\nL'articolo GM abbandona Android Auto e CarPlay, ma la notizia è che bisogna pagare per l'alternativa sembra essere il primo su Smartworld.",
+      "url": "https://mobility.smartworld.it/gm-scarica-android-auto-carplay.html",
+      "urlToImage": "https://mobility.smartworld.it/images/2023/12/14/gm-chevrolet-blazer-ev_1200x675.jpeg",
+      "publishedAt": "2023-12-14T07:29:00Z",
+      "content": "Android Auto e CarPlay sono le popolarissime interfacce per veicoli di Google e Apple, e gli utenti per averle sui loro veicoli sono anche disposti a pagare costosi pacchetti, ma secondo il produttor… [+4581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "author": "joe.foley@futurenet.com (Joseph Foley)",
+      "title": "I'm not sure which of the 3 rumoured iPhone 16 designs I prefer",
+      "description": "Prototypes appear to feature some subtle differences.",
+      "url": "https://www.creativebloq.com/news/three-iphone-16-designs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uqDbaFojTU23pSvq3jSBhB-1200-80.jpg",
+      "publishedAt": "2023-12-14T07:45:02Z",
+      "content": "The iPhone 15 has been out for a whole three months now, so it's about time we had more of an idea of what the Apple's follow-up smartphone could look like. And sure enough, renders have appeared bas… [+3099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketingdirecto.com"
+      },
+      "author": "Paula Del Hoyo",
+      "title": "Los iPhone reacondicionados se imponen a algunos modelos nuevos",
+      "description": "El mercado de los móviles reacondicionados se ha vuelto cada vez más popular entre los amantes de la nueva tecnología.\nLa entrada Los iPhone reacondicionados se imponen a algunos modelos nuevos se publicó primero en Marketing Directo.",
+      "url": "https://www.marketingdirecto.com/digital-general/mobile-marketing/iphone-reacondicionados-backmarket",
+      "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2023/12/iPhone.png",
+      "publishedAt": "2023-12-14T10:19:09Z",
+      "content": "El mercado de los móviles reacondicionados se ha vuelto cada vez más popular entre los amantes de la nueva tecnología.El amplio abanico de productos reparados invita a muchos usuarios a disfrutar de … [+2838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Fran Besora",
+      "title": "Apple pone a la venta el estuche de carga con USB-C para los AirPods Pro de segunda generación",
+      "description": "Junto a los iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max, la compañía de la manzana mordida lanzó unos nuevos AirPods Pro de segunda generación que trajeron como principal novedad un estuche de carga con puerto USB-C. Sin embargo, este estuche…",
+      "url": "https://www.lavanguardia.com/andro4all/apple/apple-lanza-estuche-carga-airpods-pro-2-usb-c",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/estuche-carga-usb-c.jpg?width=1200",
+      "publishedAt": "2023-12-14T07:47:55Z",
+      "content": "Apple lanza un estuche de carga con USB-C para los AirPods Pro\r\nJunto a los iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max, la compañía de la manzana mordida lanzó unos nuevos AirPods P… [+1842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Fran Besora",
+      "title": "Las listas colaborativas de Apple Music esconden una posible función de iOS 18",
+      "description": "Las nuevas listas colaborativas de Apple Music están dando mucho de qué hablar recientemente. Por un lado, fueron eliminadas de iOS 17.2 en el último momento, por lo que no las veremos hasta 2024 y, por otro, volvieron a aparecer en la primera beta de iOS 17.…",
+      "url": "https://www.lavanguardia.com/andro4all/apple/las-listas-colaborativas-de-apple-music-esconden-una-posible-funcion-de-ios-18",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/portada-reacciones-listas-apple-music.jpg?width=1200",
+      "publishedAt": "2023-12-14T11:31:30Z",
+      "content": "Las reacciones con emojis llegan a las listas colaborativas de Apple Music\r\nLas nuevas listas colaborativas de Apple Music están dando mucho de qué hablar recientemente. Por un lado, fueron eliminada… [+2621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Pablo Hernando Illán",
+      "title": "Kingdom Rush Vengeance recibe su mayor actualización hasta ahora: con nuevos escenarios y enemigos",
+      "description": "Hammerhold es la última actualización de Kingdom Rush Vengeance. Se trata de un extenso modo campaña que nos transporta a una desértica región llamada Hammerhold, que debemos conquistar con nuestras tropas. Se incorporan cinco nuevos escenarios, enemigos, des…",
+      "url": "https://www.lavanguardia.com/andro4all/juegos/kingdom-rush-vengeance-recibe-su-mayor-actualizacion-hasta-ahora-con-nuevos-escenarios-y-enemigos",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/kingdom-rush-vengeance-recibe-su-mayor-actualizacion-hasta-ahora-con-nuevos-escenarios-y-enemigos.jpg?width=1200",
+      "publishedAt": "2023-12-14T11:53:54Z",
+      "content": "Te mostramos todo lo que incluirá esta actualización\r\nHammerhold es la última actualización de Kingdom Rush Vengeance. Se trata de un extenso modo campaña que nos transporta a una desértica región ll… [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "JuanMi Guirado",
+      "title": "A precio de Black Friday: estos auriculares de alta gama vuelven a estar de oferta",
+      "description": "¿Necesitas unos buenos auriculares inalámbricos? Es normal ir a mirar las firmas más conocidas en este sector, como Sony, Sennheiser, JBL o Bose. Sin embargo, hay otras que están destacando incluso con sus primeras incursiones en este segmento. Google tiene d…",
+      "url": "https://www.lavanguardia.com/andro4all/ofertas/a-precio-de-black-friday-estos-auriculares-de-alta-gama-vuelven-a-estar-de-oferta",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/pixel-buds-pro.jpg?width=1200",
+      "publishedAt": "2023-12-14T11:30:41Z",
+      "content": "Los Google Pixel Buds Pro son una buenísima compra como regalo para Navidad o para sustituir tus viejos auriculares.\r\n¿Necesitas unos buenos auriculares inalámbricos? Es normal ir a mirar las firmas … [+3395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Marco Pedrani",
+      "title": "Migliori password manager del 2023",
+      "description": "La gestione delle password è uno dei più grandi problemi delle persone nell'era digitale: con l'aumento degli account online diventa sempre più difficile tenere traccia...",
+      "url": "https://www.tomshw.it/hardware/migliori-password-manager",
+      "urlToImage": "https://www.tomshw.it/storage/wp/new-images/2019/08/google-password-47299.jpg",
+      "publishedAt": "2023-12-14T10:52:43Z",
+      "content": "La gestione delle password è uno dei più grandi problemi delle persone nell'era digitale: con l'aumento degli account online diventa sempre più difficile tenere traccia di tutte le credenziali, speci… [+21146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Appbank.net"
+      },
+      "author": "テクノロジー記事班",
+      "title": "なぜ『iPhone』にはロゴ・ステッカーが付属するのか？→ Appleの巧妙な策略が秘められていた！",
+      "description": "『iPhone』や『MacBook』、『iMac』のいずれを購入しても、Appleロゴのステッカーがなぜか付属しています。この理由について、海外YouTubeチャンネル、Apple Explainedが解説しています。 […]",
+      "url": "https://www.appbank.net/2023/12/14/technology/2093439.php",
+      "urlToImage": "https://www.appbank.net/wp-content/uploads/2021/07/2021-07-08-Apple-sticker-sum-1.jpeg",
+      "publishedAt": "2023-12-14T09:48:41Z",
+      "content": "iPhoneMacBookiMacAppleYouTubeApple Explained\r\nSourceApple Explained*\r\n technology\r\nAppleMacintosh PC198490AppleMac\r\nMicrosoftGoogleAppleApple\r\nApple\r\niPhoneAppleAppleAppleIBM\r\nApple\r\nAppleAppleiPodMa… [+111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Appbank.net"
+      },
+      "author": "岩佐",
+      "title": "大変化する「iPhone 16」デザイン・新色・機能がリーク",
+      "description": "「iPhone 16」シリーズのデザインと新色について、テックメディア「MacRumors」が最新情報をリークしています。 » iPhone 16 Early Prototypes: What Apple’s […]",
+      "url": "https://www.appbank.net/2023/12/14/technology/2714284.php",
+      "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/12/2023-1213-iPhone-16-thumb-1.jpeg",
+      "publishedAt": "2023-12-14T03:13:41Z",
+      "content": "iPhone 16MacRumors\r\n» iPhone 16 Early Prototypes: What Apple’s Next-Generation iPhone Will Look Like\r\n*Category:\r\n Technology\r\niPhone 16\r\nMacRumorsAppleiPhone 16Apple\r\nWe have details on early pre-pr… [+595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Jade Bryan",
+      "title": "Kamerazoom des Samsung Galaxy S24 Ultra wird wohl gleichwertig zum Apple iPhone 15 Pro Max",
+      "description": "Gerüchten zufolge soll das Samsung Galaxy S24 Ultra den Kamerazoom von 3-fach auf 5-fach erhöhen und somit mit dem Apple iPhone 15 Pro Max gleichziehen.",
+      "url": "https://www.nextpit.de/samsung-galaxy-s24-ultra-kommt-mit-gleichwertigen-kamerazoom",
+      "urlToImage": "https://fscl01.fonpit.de/userfiles/7446224/image/samsung-galaxy-s23-series-cmd7/NextPit-samsung-galaxy-s23-ultra-back-cmd7.jpg",
+      "publishedAt": "2023-12-14T06:05:04Z",
+      "content": "Die südkoreanische Publikation The Elec berichtete, dass das Samsung Galaxy S24 Ultra die Periskop-Kamera mit einem 10-fachem Zoom behalten wird. Zuvor war gemunkelt worden, dass die Kamera auf ein n… [+2440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Jade Bryan",
+      "title": "Gibt es zum Galaxy-S24-Unpacked-Event eine große Preis-Überraschung?",
+      "description": "Aktuelle Berichte deuten auf einen Strategiewechsel im Hinblick auf die Preisgestaltung des Samsung-Galaxy-S24-Trios hin. Was hat Samsung geplant?",
+      "url": "https://www.nextpit.de/preis-ueberraschung-beim-s24-launch-moeglich",
+      "urlToImage": "https://fscl01.fonpit.de/userfiles/7446224/image/samsung-galaxy-s23-series-cmd7/NextPit-samsung-galaxy-s23-versus-s23-plus-cmd7.jpg",
+      "publishedAt": "2023-12-14T08:07:49Z",
+      "content": "Die Preise des Samsung Galaxy S24, S24+ und Galaxy S24 Ultra\r\nLaut der Verkaufsstelle Hankyung wird die gesamte Galaxy-S24-Serie das Gleiche kosten wie die Galaxy-S23-Serie Anfang dieses Jahres. Das … [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "PABLO VILLA",
+      "title": "\"El Real Madrid tiene una gran oportunidad para redimirse con Laso\"",
+      "description": "Pablo Laso vuelve a Madrid. Lo hace año y medio después de su controvertido despido aquel 4 de julio de 2022. En la casa blanca se ampararon a unos informes médicos que desaconseja",
+      "url": "https://www.marca.com/radio/marca-daily/2023/12/14/657a6119e2704ee91c8b4598.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/c4cb83e57dc5fb2868cb050c80f5d8e7/crop/0x0/1596x1064/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/14/17025188585047.jpg",
+      "publishedAt": "2023-12-14T05:27:59Z",
+      "content": "Pablo Laso vuelve a Madrid. Lo hace año y medio después de su controvertido despido aquel 4 de julio de 2022. En la casa blanca se ampararon a unos informes médicos que desaconsejaban su continuidad … [+672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Maxime Claudel",
+      "title": "Votre bilan Switch en 2023 : combien de temps avez-vous joué à Zelda ?",
+      "description": "Après PlayStation et Xbox, c'est au tour de Nintendo de proposer sa rétrospective de l'année 2023. Vous allez savoir combien de temps vous avez joué à The Legend of Zelda: Tears of the Kingdom.",
+      "url": "https://www.numerama.com/pop-culture/1588214-votre-bilan-switch-en-2023-combien-de-temps-avez-vous-joue-a-zelda.html",
+      "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/12/capture-decran-2023-12-14-a-10-20-53.jpg",
+      "publishedAt": "2023-12-14T09:32:40Z",
+      "content": "Après PlayStation et Xbox, c’est au tour de Nintendo de proposer sa rétrospective de l’année 2023. Vous allez savoir combien de temps vous avez joué à The Legend of Zelda: Tears of the Kingdom.\r\nC’es… [+3009 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bloomberg",
+      "title": "Fed rate cut hopes by March optimistic, says Rajan",
+      "description": "\"The Fed would like to see either a substantial fall in inflation, but also, the problem is the labor market is hot,\" Rajan, who is a well known commentator on the global economy, said Wednesday. \"The Fed may think if rates are not doing damage, why worry.\"",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fed-rate-cut-hopes-by-march-optimistic-says-rajan/articleshow/105971813.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105971832,width-1200,height-630,imgsize-98966,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2023-12-14T00:54:51Z",
+      "content": "The US Federal Reserve will probably want to see inflation come down further before easing policy and any expectations of interest rate cuts by March are \"overly optimistic,\" India's former central b… [+3676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techbang.com"
+      },
+      "author": "WL.",
+      "title": "Apple Pencil USB-C 開箱：4 個功能特色分析，售價 2,690 元、高性價比的新選擇",
+      "description": "蘋果推出 Apple Pencil（USB-C），以 Apple Pencil（第 2 代）相似的外型，再加上 USB-C 埠設計，為新一代高性價的選擇。Apple 在 10 月下旬時發表的 Apple Pencil（USB-C）也在台灣開賣了，不以 Apple Pencil 第 3 代來命名，還是將 USB-C 的特色直接標示在產品名上，再細看功能上，Apple Pencil（第 1 代）具備的功能，Apple Pencil（USB-C）大都有，除了書寫的壓力辨識外。再與 Apple Pencil（第 2 代）…",
+      "url": "https://www.techbang.com/posts/111831-apple-pencil-usb-c-box-4-feature-analysis",
+      "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/111831/original/ef50a0a4bba1e57aed66b9d8a46d8a48.jpg?1702528947",
+      "publishedAt": "2023-12-14T06:00:00Z",
+      "content": "Apple 10 Apple PencilUSB-C Apple Pencil 3 USB-C Apple Pencil 1 Apple PencilUSB-C Apple Pencil 2 Apple PencilUSB-C\r\nApple PencilUSB-C\r\n Apple PencilUSB-C Apple PencilUSB-C\r\nApple PencilUSB-C Apple Pen… [+3050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techbang.com"
+      },
+      "author": "cnBeta",
+      "title": "分析師預估Windows 12、AI PC明年將至，會帶來最強電腦換機需求",
+      "description": "Canalys預計Windows 12、AI PC明年將帶來最強換機潮\n經歷多年萎靡之後，PC有望在明年迎來觸底反彈，Windows更新週期加上AI PC的崛起，將帶來近年最強換機潮。全球知名科技市場獨立分析機構Canalys發佈的研報指出，全球個人電腦出貨量在連續七個季度下跌後有望迎來復甦。\n在節日旺季和宏觀經濟改善的推動下，預計2023年第四季度市場將增長5%。展望未來，2024年全年出貨量預計達到2.67億台，較2023年增長8%，這主要得益於Windows的更新週期，以及具備AI功能和採用Arm架構電腦的…",
+      "url": "https://www.techbang.com/posts/111604-canalys-predicts-that-windows-12-and-ai-pcs-will-bring-the",
+      "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/111604/original/d2eea4007e87a7b5a8ee80727e9e3bc8.jpg?1701859233",
+      "publishedAt": "2023-12-14T01:30:00Z",
+      "content": "PCWindowsAI PCCanalys\r\n20235%20242.6720238%WindowsAIArm\r\nCanalysAIOEM2024AI\r\n2024AI19%MMacWindows\r\nCanalysAI\r\n1147%Windows10%\r\nWindows\r\nDavid ZinsnerWindowsWindows\r\n2024PCWindowsWindowsWindows\r\nZinsn… [+18 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inside.com.tw"
+      },
+      "author": "Jocelyn",
+      "title": "蘋果恐面 10% 年銷收額的罰款！Apple 與 Spotify 四年前反壟斷官司結果即將出爐",
+      "description": "Spotify 在 2019 年指控Apple 以 iOS 和 App Store 擁有者的身分讓自己不斷獲利，包括收取 30% 蘋果稅、在技術上對開發者施加限制，以及限制他們與用戶溝通。",
+      "url": "https://www.inside.com.tw/article/33617-apple-spotify-antitrust-case",
+      "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2023/12/15d664e5-013a-4e7b-88e9-bcdc02d9acd5.jpg?w=1200&h=630&fit=crop&auto=compress",
+      "publishedAt": "2023-12-14T05:57:00Z",
+      "content": "Zendesk JTCG 11 30 W Zendesk 2023 CRM JTCG Zendesk Coco Zendesk CuboAi-TLITaipei Language Institute Zendesk \r\nPhoto CreditJTCG \r\nCoco Coco Zendesk 286% \r\nPhoto CreditJTCG \r\nZendesk JTCG CEO James Rac… [+223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digiday"
+      },
+      "author": "Cloey Callahan",
+      "title": "Layoffs, promotions, endless job searching: The Return podcast, season 2, episode 8",
+      "description": "On this episode, we circle back to talk to a few guests that we spoke with earlier this season to see where they’re at now.",
+      "url": "http://digiday.com/podcasts/layoffs-promotions-endless-job-searching-the-return-podcast-season-2-episode-8/",
+      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/10/the-returnWL-copy.jpg",
+      "publishedAt": "2023-12-14T05:01:00Z",
+      "content": "This article is part of a special podcast series that covers the challenges and opportunities of returning to the office. More from the series →Since we first started reporting for season two of The … [+2327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ascii.jp"
+      },
+      "author": "ASCII",
+      "title": "【朗報かつ悲報】USB‑C対応AirPods Pro充電ケースを公式販売するもお高い！",
+      "description": "アップルは「AirPods Pro（第2世代）MagSafe充電ケース（USB‑C）」を発売した。Apple Storeオンラインでの価格は1万5800円。",
+      "url": "https://weekly.ascii.jp/elem/000/004/175/4175412/",
+      "urlToImage": "https://ascii.jp/img/2023/12/14/3655684/l/57d58eea445a5e09.png",
+      "publishedAt": "2023-12-14T03:35:00Z",
+      "content": "AirPods Pro2MagSafeUSBCApple Store15800\r\n9AirPods Pro 2USB-CAirPods Pro 2USB-CLightningUSB-CIP54iPadiPhone 15USB-C\r\nLightning\r\nAirPods Pro 2LightningAirPods Pro 2"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ascii.jp"
+      },
+      "author": "ASCII",
+      "title": "Macによるゲーム体験の進化が止まらない！ アップル担当者に聞く「シリコンとOSの技術革新」",
+      "description": "Apple M3チップ搭載のMacによる「ゲーム体験」がどこまで進化したのか、アップルの担当者にインタビューしました",
+      "url": "https://weekly.ascii.jp/elem/000/004/175/4175434/",
+      "urlToImage": "https://ascii.jp/img/2023/12/14/3655731/l/75972e814c045e2f.png",
+      "publishedAt": "2023-12-14T03:40:00Z",
+      "content": "Apple M3Mac\r\n2023AppleApple M3117MacBook PromacOS Sonoma\r\nAppleMacmacOS SonomaApple M3GPUDynamic CachingMac\r\nMac3Mac Product MarketingGPU Software Product Marketing\r\nmacOS SonomaAppleMac\r\nmacOS Sonom… [+196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "iMessage for Android via Beeper Mini and Cloud are down again",
+      "description": "On Monday, Beeper Mini started working again but without phone number support. That workaround appears to be dead two days later, which is just in line with what Apple said over the weekend.\n more…\nThe post iMessage for Android via Beeper Mini and Cloud are d…",
+      "url": "https://9to5google.com/2023/12/13/imessage-android-beeper-down-again/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/beeper-fi-03.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-12-14T00:51:29Z",
+      "content": "On Monday, Beeper Mini started working again but without phone number support. That workaround appears to be dead two days later, which is just in line with what Apple said over the weekend.\r\nOn Wedn… [+734 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Leon Poultney",
+      "title": "GM says it's ditching Apple CarPlay and Android Auto to prevent distracted drivers",
+      "description": "GM’s head of product for infotainment, Tim Babbitt, suggests its decision to phase out Apple CarPlay and Android Auto is due to safety concerns.",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/gm-says-its-ditching-apple-carplay-and-android-auto-to-prevent-distracted-drivers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q3ynC2jsintGUfS4RDm6VW-1200-80.jpg",
+      "publishedAt": "2023-12-14T12:12:43Z",
+      "content": "General Motors caused uproar earlier this year when it announced plans to phase out Apple CarPlay and Android Auto in future vehicles, in favor of an in-house system developed with the help of Google… [+4296 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Carrie Marshall",
+      "title": "You can now buy a USB-C AirPods Pro case on its own – but it's not cheap",
+      "description": "Apple has made the USB-C charging case available as a stand-alone item. Is it worth the $99 / £89 / AU$159 price tag?",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/you-can-now-buy-a-usb-c-airpods-pro-case-on-its-own-but-its-not-cheap",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xihq34hPCGFbwiXSyzkfqM-1200-80.jpg",
+      "publishedAt": "2023-12-14T12:31:48Z",
+      "content": "When Apple updated its AirPods Pro 2 to USB-C charging back in September, many existing Lightning owners wondered whether they too would be able to upgrade. And now they have an answer: yes, if you h… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "David Nield",
+      "title": "The latest Samsung Galaxy S24 leak says it will match the Galaxy S23 pricing",
+      "description": "According to a report from South Korea, the Galaxy S24 phones will cost the same as their Galaxy S23 counterparts.",
+      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/the-latest-samsung-galaxy-s24-leak-says-it-will-match-the-galaxy-s23-pricing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wm2wkpQ9VhaMXFGE7KP5XP-1200-80.jpg",
+      "publishedAt": "2023-12-14T11:53:46Z",
+      "content": "We're seeing plenty of Samsung Galaxy S24 leaks right now, ahead of the expected unveiling in January, and the latest one to emerge suggests that Samsung might stick to the same pricing as it used fo… [+1637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Angelina Villa-Clarke, Contributor, \n Angelina Villa-Clarke, Contributor\n https://www.forbes.com/sites/angelinavillaclarke/",
+      "title": "London’s Most Fashionable Afternoon Tea In Celebration Of Coco Chanel",
+      "description": "Let them eat cake: an afternoon tea in celebration of Coco Chanel A few fashionable streets away from the stucco-fronted The Kensington Hotel, culturalists have been l...",
+      "url": "https://www.forbes.com/sites/angelinavillaclarke/2023/12/14/londons-most-fashionable-afternoon-tea-in-celebration-of-coco-chanel/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65799fdf6a7a23f0e7dc0ce5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-14T07:53:16Z",
+      "content": "A few fashionable streets away from the stucco-fronted The Kensington Hotel, in South Kensington, culturalists have been lining up at the V&amp;A to take in its blockbuster Gabrielle Chanel. Fashion … [+3812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kalina Bryant, Contributor, \n Kalina Bryant, Contributor\n https://www.forbes.com/sites/kalinabryant/",
+      "title": "How AI Is Impacting Society And Shaping The Future",
+      "description": "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge.",
+      "url": "https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/657a5006c207ad19dd8da4dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-14T00:46:25Z",
+      "content": "How AI Is Impacting Society And Shaping The Future\r\ngetty\r\nIn an age of swift technological evolution, artificial intelligence (AI) emerges as a transformative influence with the capacity to reshape … [+8500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Mike Ozanian, Forbes Staff, \n Mike Ozanian, Forbes Staff\n https://www.forbes.com/sites/mikeozanian/",
+      "title": "The Most Valuable NHL Teams 2023",
+      "description": "The Toronto Maple Leafs, worth $2.8 billion, have overtaken the New York Rangers to become hockey’s most expensive franchise.",
+      "url": "https://www.forbes.com/sites/mikeozanian/2023/12/14/the-most-valuable-nhl-teams-2023/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6579cf4ff063e731e5df862c/0x0.jpg?format=jpg&crop=1920,1080,x0,y232,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-14T11:30:00Z",
+      "content": "The Toronto Maple Leafs, worth $2.8 billion, have overtaken the New York Rangers to become hockeys most expensive franchise.\r\nThe Toronto Maple Leafs are the most valuable team in the National Hockey… [+6314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphoneblog.de"
+      },
+      "author": "Alex Olma",
+      "title": "Mit iOS 17.2: die iMessage-Kontaktschlüsselbestätigung",
+      "description": "Die iMessage-Kontaktschlüsselbestätigung bietet zusätzliche Sicherheit, indem sie komplexe Bedrohungen für iMessage-Server erkennt und dir ermöglicht, sicherzustellen, dass du nur mit beabsichtigen Personen kommunizierst. Support.Apple.com „Komplexe Bedrohung…",
+      "url": "https://www.iphoneblog.de/2023/12/14/mit-ios-172-die-imessage-kontaktschlusselbestatigung/",
+      "urlToImage": "https://www.iphoneblog.de/wp-content/uploads/2023/12/iphoneblog.de_verify_contact.png",
+      "publishedAt": "2023-12-14T10:00:43Z",
+      "content": "Die iMessage-Kontaktschlüsselbestätigung bietet zusätzliche Sicherheit, indem sie komplexe Bedrohungen für iMessage-Server erkennt und dir ermöglicht, sicherzustellen, dass du nur mit beabsichtigen P… [+2723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hdblog.it"
+      },
+      "author": "HDblog.it",
+      "title": "UE pronta a multare Apple nella causa antitrust di Spotify",
+      "description": "Si profila il divieto di adottare pratiche anti-steering",
+      "url": "https://www.hdblog.it/apple/articoli/n576648/ue-multa-apple-causa-antitrust-spotify/",
+      "urlToImage": "https://hd2.tudocdn.net/927118?w=1920",
+      "publishedAt": "2023-12-14T07:57:00Z",
+      "content": "La Commissione Europea potrebbe infliggere ad Apple una multa salata in seguito alla lunga battaglia antitrust con Spotify, secondo quanto riportato da Bloomberg. La denuncia ruota attorno alle norme… [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hdmotori.it"
+      },
+      "author": "HDblog.it",
+      "title": "General Motors è pronto ad eliminare Apple CarPlay e Android Auto dai suoi EV",
+      "description": "General Motors ha intenzione di rimpiazzare Apple CarPlay e Android Auto con un nuovo sistema di infotainment dotato delle applicazioni Google integrate",
+      "url": "https://www.hdmotori.it/google/articoli/n576643/general-motors-elimina-apple-carplay-android-auto/",
+      "urlToImage": "https://hd2.tudocdn.net/1132488?w=1920",
+      "publishedAt": "2023-12-14T10:40:00Z",
+      "content": "General Motors ha annunciato l'intenzione di eliminare gradualmente la connettività per smartphone tramite Apple CarPlay e Android Auto nei suoi nuovi veicoli elettrici e, eventualmente, in tutti i s… [+2805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphoneitalia.com"
+      },
+      "author": "Giuseppe Migliorino",
+      "title": "Come Apple raccoglie dati per migliorare la precisione della realtà su Maps",
+      "description": "Sfruttando alcuni dati, Apple riesce a migliorare la funzione di realtà aumentata in Apple Maps. \nLink all'articolo originale: Come Apple raccoglie dati per migliorare la precisione della realtà su Maps",
+      "url": "https://www.iphoneitalia.com/818592/apple-dati-ar-maps",
+      "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/12/apple-maps-3d-feature.webp",
+      "publishedAt": "2023-12-14T08:00:05Z",
+      "content": "Con il lancio di iOS 17.2, Apple ha delineato i dati relativi a Maps che sta raccogliendo per migliorare la funzione di localizzazione in realtà aumentata. In un nuovo documento di supporto, Apple af… [+2051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphoneitalia.com"
+      },
+      "author": "Giuseppe Migliorino",
+      "title": "L’UE consentirà a Spotify di indirizzare gli utenti verso altre opzioni di pagamento su iPhone",
+      "description": "Tra qualche settimana, Apple potrebbe essere costretta a consentire sistemi di pagamento terzi su Spotify. \nLink all'articolo originale: L’UE consentirà a Spotify di indirizzare gli utenti verso altre opzioni di pagamento su iPhone",
+      "url": "https://www.iphoneitalia.com/818589/spotify-pagamenti-iphone",
+      "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2019/04/apple-music-vs-spotify.png",
+      "publishedAt": "2023-12-14T07:00:32Z",
+      "content": "Apple registra una battuta d’arresto nella sua battaglia antitrust in Europa contro Spotify, che presentò una denuncia contro l’azienda di Cupertino più di quattro anni fa.\r\nLe autorità di regolament… [+829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "André Luiz Dias Gonçalves",
+      "title": "Após denúncia, Apple irá dificultar o acesso do governo às notificações de celulares",
+      "description": "A Apple vai passar a exigir ordem judicial das autoridades interessadas em acessar dados de notificações no formato push enviadas para os usuários do iPhone. A nova política surgiu após o senador americano, Ron Wyden, denunciar o repasse dos dados para govern…",
+      "url": "https://www.tecmundo.com.br/seguranca/274942-denuncia-apple-dificultar-acesso-governo-notificacoes-celulares.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2023/12/14/14091241731005.jpg",
+      "publishedAt": "2023-12-14T12:16:47Z",
+      "content": "A Apple vai passar a exigir ordem judicial das autoridades interessadas em acessar dados de notificações no formato push enviadas para os usuários do iPhone. A nova política surgiu após o senador ame… [+2094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Rodrigo Mozelli",
+      "title": "Após confirmar espionagem, Apple dificulta acesso a notificações por governos",
+      "description": "Empresa da maçã informou que exigirá ordem judicial para entregar tais dados\nO post Após confirmar espionagem, Apple dificulta acesso a notificações por governos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/13/pro/apos-confirmar-espionagem-apple-dificulta-acesso-a-notificacoes-por-governos/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/notificacoes_push-1.jpg",
+      "publishedAt": "2023-12-14T00:02:24Z",
+      "content": "Depois da revelaÃ§Ã£o de que os governos mundiais espionam usuÃ¡rios de smartphones por meio de notificaÃ§Ãµes push, a Apple tomou atitude para dificultar a obtenÃ§Ã£o desses dados.\r\nAgora, a empresa… [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "coingape.com",
+      "title": "Best Crypto Debit Cards of 2024",
+      "description": "A Mastercard debit card from Uphold is provided to you, which you can use anywhere Mastercard is accepted. Any asset that you currently have in your Uphold wallet can be spent using this card, both physically and virtually. This card enables trading in fiat, …",
+      "url": "https://biztoc.com/x/e8f8df4a97095427",
+      "urlToImage": "https://c.biztoc.com/p/e8f8df4a97095427/s.webp",
+      "publishedAt": "2023-12-14T11:56:09Z",
+      "content": "A Mastercard debit card from Uphold is provided to you, which you can use anywhere Mastercard is accepted. Any asset that you currently have in your Uphold wallet can be spent using this card, both p… [+287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "F. Q.",
+      "title": "Jennifer Aniston rifiuta l’intimacy coordinator per le scene di sesso sul set: “Siamo esperti, possiamo fare da soli”",
+      "description": "Sta facendo discutere la presa di posizione di Jennifer Aniston, non proprio in linea con la regolamentazione dei set post #MeToo\nL'articolo Jennifer Aniston rifiuta l’intimacy coordinator per le scene di sesso sul set: “Siamo esperti, possiamo fare da soli” …",
+      "url": "https://www.ilfattoquotidiano.it/2023/12/14/jennifer-aniston-rifiuta-lintimacy-coordinator-per-le-scene-di-sesso-sul-set-siamo-esperti-possiamo-fare-da-soli/7383347/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2020/01/09/pitt-aniston-1200.jpg",
+      "publishedAt": "2023-12-14T12:35:56Z",
+      "content": "Niente coordinatore delle scene di sesso. Siamo adulti e consenzienti, grazie. Sta facendo discutere la presa di posizione di Jennifer Aniston, non proprio in linea con la regolamentazione dei set po… [+1304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Actualidadiphone.com"
+      },
+      "author": "Ángel González",
+      "title": "Así es el nuevo sistema de protección en caso de robo de iOS 17.3",
+      "description": "iOS 17.3 incluye un nuevo sistema de protección frente a robos que se basa en la autenticación biométrica para ciertas acciones.",
+      "url": "https://www.actualidadiphone.com/asi-es-el-nuevo-sistema-de-proteccion-en-caso-de-robo-de-ios-17-3/",
+      "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2023/12/Sistema-proteccion-iOS-17-3.jpg",
+      "publishedAt": "2023-12-14T09:00:01Z",
+      "content": "La primera beta de iOS 17.3 para desarrolladores ya está disponible y con ella comienza un nuevo ciclo de actualizaciones a lo largo de las próximas semanas. Aún estamos disfrutando de las nuevas fun… [+3294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Gadgeteer"
+      },
+      "author": "Lex Strickland",
+      "title": "KOSPET TANK X1 Smartwatch review – Smarter than his older brother?",
+      "description": "REVIEW – The KOSPET TANK X1 smartwatch was offered for review and the brand was familiar to me. I reviewed a KOSPET watch in 2021 and after the review I promptly took it to electronic recycling with no regrets. I was interested to see if KOSPET had matured as…",
+      "url": "https://the-gadgeteer.com/2023/12/14/kospet-tank-x1-smartwatch-review-smarter-than-his-older-brother/",
+      "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2023/12/KOSPET-TANK-X1-33.jpg",
+      "publishedAt": "2023-12-14T12:43:29Z",
+      "content": "We use affiliate links. If you buy something through the links on this page, we may earn a commission at no cost to you. Learn more.\r\nREVIEW The KOSPET TANK X1 smartwatch was offered for review and t… [+16594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elotrolado.net"
+      },
+      "author": null,
+      "title": "Breve: Kingdom Rush Vengeance recibe la campaña de pago Hammerhold",
+      "description": "<table><tr><td></td></tr></table>Ironhide Studios ha anunciado que el juego de defensa de torres Kingdom Rush Vengeance amplía desde hoy su propuesta con Hammerhold, una campaña de pago que se vende por 7,79 euros en Steam y 8,99 euros en Google Play y App St…",
+      "url": "https://www.elotrolado.net/hilo_kingdom-rush-vengeance-recibe-la-campana-de-pago-hammerhold_2493869",
+      "urlToImage": "https://images.elotrolado.net/headers/breves_news.jpg",
+      "publishedAt": "2023-12-14T11:03:00Z",
+      "content": "Ironhide Studios ha anunciado que el juego de defensa de torres Kingdom Rush Vengeance amplía desde hoy su propuesta con Hammerhold, una campaña de pago que se vende por 7,79 euros en Steam y 8,99 eu… [+545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tinhte.vn"
+      },
+      "author": "no-reply@tinhte.vn (airwalker), airwalker",
+      "title": "Tư vấn smart watch theo dõi sức khoẻ cho người có tuổi",
+      "description": "Chào anh em,\n \nMình định mua tặng người nhà một cái smart watch tương thích với Android nhưng vũ trụ thiết bị này mình mù tịt, nhờ anh em tư vấn 1 con phù hợp với người có tuổi với những nhu cầu sau:\n \n\nKhông phải Apple Watch vì người nhà mình dùng…",
+      "url": "https://tinhte.vn/thread/tu-van-smart-watch-theo-doi-suc-khoe-cho-nguoi-co-tuoi.3747754/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8213297_IMG-2125.jpeg",
+      "publishedAt": "2023-12-14T08:20:20Z",
+      "content": "Chào anh em,Mình nh mua tng ngi nhà mt cái smart watch tng thích vi Android nhng v tr thit b này mình mù tt, nh anh em t vn 1 con phù hp vi ngi có tui vi nhng nhu cu sau:"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tinhte.vn"
+      },
+      "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+      "title": "2024 sẽ là năm vô cùng thú vị đối với PC Windows",
+      "description": "Thị trường PC Windows dự kiến sẽ rất sôi động vào năm 2024 với những chiếc laptop có thiết kế mới, các bộ xử lý có khả năng mang tính cách mạng cùng với một bản cập nhật Windows lớn.\n \nNăm của Windows on Arm\n \nĐược giới thiệu từ những năm 2016…",
+      "url": "https://tinhte.vn/thread/2024-se-la-nam-vo-cung-thu-vi-doi-voi-pc-windows.3747752/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8213276_cover-Snapdragon-X-Elite-Meteor-Lake-tinhte.jpg",
+      "publishedAt": "2023-12-14T01:44:56Z",
+      "content": "Và không ch v phn cng, Microsoft có v nh cng ang phi hp rt nhp nhàng vi Qualcomm. Windows s nhn c nhng s ti u hoá ln cho các thit b Arm vào nm ti. Và hn ht, app DaVinci Resolve ca Blackmagic, mt tron… [+895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neowin"
+      },
+      "author": "Paul Hill",
+      "title": "The Sony Bravia XR A75L is at its best price of less than $1,200",
+      "description": "The Sony Bravia XR A75L is currently selling for less than $1,200 on Amazon. This is 25% below the usual list price of $1,599.99. It comes with Google TV and support for many streaming services. Read more...",
+      "url": "https://www.neowin.net/deals/the-sony-bravia-xr-a75l-is-at-its-best-price-of-less-than-1200/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2023/12/1702531973_81ozwf1snjl._ac_sl1500__story.jpg",
+      "publishedAt": "2023-12-14T05:44:01Z",
+      "content": "Shoppers looking to buy a premium television can get the 55 Sony Bravia XR A75L at its lowest price of $1,198 on Amazon right now. At this price, you save 25% off the $1,599.99 list price.\r\nThis 4K O… [+2791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nofilmschool.com"
+      },
+      "author": "Jason Hellerman",
+      "title": "Filmmaker Resolutions for 2024",
+      "description": "Are you planning on making any New Year's resolutions for 2024? Maybe you want to integrate more positive practices into your life? \r\nAre there any habits that are hurting you, that you want to work on reducing?\r\nIn today’s episode, No Film School’s Charles H…",
+      "url": "https://nofilmschool.com/a-new-years-resolution-film",
+      "urlToImage": "https://nofilmschool.com/media-library/serendipity.jpg?id=50538592&width=1200&height=600&coordinates=0%2C61%2C0%2C61",
+      "publishedAt": "2023-12-14T00:51:58Z",
+      "content": "David Fincher and 'The Killer' Crew Break Down the Brute Fight Scene\r\nDavid Fincher's film The Killer, featuring Michael Fassbender in the lead role, includes a notable fight scene known as \"The Brut… [+1993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComingSoon.net"
+      },
+      "author": "Vivekkumar",
+      "title": "The Snoopy Show: Happiness Is Holiday Traditions Streaming: Watch & Stream Online via Apple TV Plus",
+      "description": "The Snoopy Show: Happiness Is Holiday Traditions is a Christmas show that can be a delightful experience this holiday season. After 58 years of “A Charlie Brown Christmas” being aired on CBS, the Peanuts characters returned to television with new holiday stor…",
+      "url": "https://www.comingsoon.net/guides/news/1442479-the-snoopy-show-happiness-is-holiday-traditions-streaming-watch-stream-online-via-apple-tv-plus",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/The-Snoopy-Show-Happiness-Is-Holiday-Traditions.jpeg?resize=1200,630",
+      "publishedAt": "2023-12-14T11:50:36Z",
+      "content": "The Snoopy Show: Happiness Is Holiday Traditions is a Christmas show that can be a delightful experience this holiday season. After 58 years of A Charlie Brown Christmas being aired on CBS, the Peanu… [+3130 chars]"
+    }
+  ]
+}
